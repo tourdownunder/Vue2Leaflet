@@ -8,7 +8,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'GeoJson2Popup',
   props: ['type', 'text']
